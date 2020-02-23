@@ -1,6 +1,4 @@
-![laqpay explorer logo](https://user-images.githubusercontent.com/26845312/32426909-047fb2ae-c283-11e7-8031-6e88585a53c8.png)
-
-# Laqpay Explorer
+# LaQ Pay Explorer
 
 [![Build Status](https://travis-ci.com/laqpay/laqpay-explorer.svg?branch=develop)](https://travis-ci.com/laqpay/laqpay-explorer)
 
