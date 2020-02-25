@@ -8,10 +8,10 @@
  * from the node.
  */
 export const CoinIdentifiers = {
-  fullName: 'Laqpay',
+  fullName: 'LaQ Pay',
   coinName: 'LAQ',
-  HoursName: 'Coin Hours',
-  HoursNameSingular: 'Coin Hour',
+  HoursName: 'LAQH',
+  HoursNameSingular: 'LAQH',
 };
 
 /**
@@ -31,7 +31,7 @@ export const QrConfig = {
 export const HeaderConfig = {
   // Set to true for using the generic header, instead of the Laqpay one.
   useGenericHeader: false,
-  genericHeaderUrl: 'https://www.laqpay.com/',
+  genericHeaderUrl: 'https://explorer.laqpay.com/',
 };
 
 /**

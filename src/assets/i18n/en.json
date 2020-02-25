@@ -1,8 +1,8 @@
 {
   "general": {
     "address": "Address",
-    "coins": "Coins",
-    "hours": "Hours",
+    "coins": "LAQ",
+    "hours": "LAQH",
     "loadingMsg": "Loading...",
     "shortLoadingErrorMsg": "Loading error",
     "longLoadingErrorMsg": "Error loading data. Please try again later...",
@@ -13,20 +13,20 @@
     "websiteLink": "Website"
   },
   "genericFooter": {
-    "credit": "Powered by Laqfiber"
+    "credit": "Powered by LaQ Fiber"
   },
   "txBoxes": {
     "pendingTransaction": "pending",
     "transactionIDShortLabel": "Transaction ID",
     "inputs": "Inputs",
     "outputs": "Outputs",
-    "hoursWhenCreated": "Initial Hours",
-    "hoursWhenUsed": "Final Hours",
+    "hoursWhenCreated": "Initial LAQH",
+    "hoursWhenUsed": "Final LAQH",
     "date": "Date",
     "moreInfo": "More info",
-    "fee": "Transaction fee (in hours)",
-    "initialBalance": "Initial coins balance",
-    "finalBalance": "Final coins balance",
+    "fee": "Transaction fee (in LAQH)",
+    "initialBalance": "Initial LAQ balance",
+    "finalBalance": "Final LAQ balance",
     "firstSeen": "First seen at",
     "loadAll": "Show all {{total}} elements",
     "loading": "Loading, please wait..."
@@ -35,10 +35,10 @@
     "blocksTitle": "Blocks",
     "statsTitle": "Stats",
     "blockHeight": "Block Height",
-    "currentSupply": "Current Supply",
-    "totalSupply": "Total Supply",
-    "currentCoinhourSupply": "Current Coinhour Supply",
-    "totalCoinhourSupply": "Total Coinhour Supply",
+    "currentSupply": "Current LAQ Supply",
+    "totalSupply": "Total LAQ Supply",
+    "currentCoinhourSupply": "Current LAQH Supply",
+    "totalCoinhourSupply": "Total LAQH Supply",
     "explorerApi": "Explorer API",
     "unconfirmedTransactions": "Unconfirmed Transactions",
     "richList": "Rich List",
@@ -66,8 +66,8 @@
     "txsNumber": "# of Transactions",
     "totalReceived": "Total Received",
     "totalSent": "Total Sent",
-    "currentBalance": "Current Coins",
-    "hoursBalance": "Current Hours",
+    "currentBalance": "Current LAQ",
+    "hoursBalance": "Current LAQH",
     "tools": "Tools",
     "unspentOutputs": "Unspent outputs",
     "withoutTransactions": "Without transactions",
@@ -78,13 +78,13 @@
     "title": "Unspent Outputs",
     "address": "Address",
     "outputsNumber": "# of outputs",
-    "totalCoins": "Total Coins",
-    "totalHours": "Total Hours",
+    "totalCoins": "Total LAQ",
+    "totalHours": "Total LAQH",
     "origin": "Origin",
     "date": "Date",
     "withoutOutputs": "Without outputs",
-    "hoursWhenCreated": "Initial Hours",
-    "currentHours": "Current Hours"
+    "hoursWhenCreated": "Initial LAQH",
+    "currentHours": "Current LAQH"
   },
   "transactionDetail": {
     "title": "Transaction",
